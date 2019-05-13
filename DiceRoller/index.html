@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<!-- <i class='fas fa-angle-double-down'></i> -->
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="CSS/structureRoll.css">
+	<link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.5.0/css/all.css' integrity='sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU' crossorigin='anonymous'>
+	<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Coiny" rel="stylesheet">
+	<title>Dice Roller</title>
+</head>
+<body>
+	<div class="container">
+		<div class="rollingPanel">
+			<div class="header">Dice Roller</div>
+			<button class="rollDiceBtn"><i class="fas fa-dice"></i>Roll Dice</button>
+
+			<div id="diceType">
+					<select id='typeSelected'>
+						<option value=" "hidden>Die Type</option>
+					 	<option value='4'>D4</option>
+						<option value='6'>D6</option>
+						<option value='8'>D8</option>
+						<option value='10'>D10</option>
+						<option value='12'>D12</option>
+						<option value='20'>D20</option> 
+					</select>
+			</div>
+			<div class="totalRoll">0</div>
+			<div id="diceNum">
+					<select id="numSelected">
+						<option value=" "hidden>Number of Dice</option>
+					 	<option value='1'>1</option>
+						<option value='2'>2</option>
+						<option value='3'>3</option>
+						<option value='4'>4</option>
+						<option value='5'>5</option>
+						<option value='6'>6</option> 
+						<option value='7'>7</option>
+						<option value='8'>8</option>
+						<option value='9'>9</option>
+						<option value='10'>10</option>
+					</select>
+			</div>
+		</div>
+		<img src="images/dice-10-1.png" alt="Dice" class="dice" id="dice-1">
+		<img src="images/dice-10-2.png" alt="Dice" class="dice" id="dice-2">
+		<img src="images/dice-10-3.png" alt="Dice" class="dice" id="dice-3">
+		<img src="images/dice-10-4.png" alt="Dice" class="dice" id="dice-4">
+		<img src="images/dice-10-5.png" alt="Dice" class="dice" id="dice-5">
+		<img src="images/dice-10-6.png" alt="Dice" class="dice" id="dice-6">
+		<img src="images/dice-10-7.png" alt="Dice" class="dice" id="dice-7">
+		<img src="images/dice-10-8.png" alt="Dice" class="dice" id="dice-8">
+		<img src="images/dice-10-9.png" alt="Dice" class="dice" id="dice-9">
+		<img src="images/dice-10-10.png" alt="Dice" class="dice" id="dice-10">
+	</div>
+	<script src="JS/rollScript.js"></script>
+</body>
+</html>
