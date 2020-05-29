@@ -1,0 +1,1681 @@
+/* web export used to generate majority */
+.mediaViewInfo {
+	--web-view-name: spa – 1;
+	--web-view-id: spa___1;
+	--web-scale-on-resize: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: spa___1;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+	scrollbar-width: none;
+	overflow-x: hidden;	
+}
+
+
+#spa___1 {
+	position: absolute;
+	width: 1920px;
+	height: 6000px;
+	background-color: rgba(52,73,85,1);
+	overflow: hidden;
+	--web-view-name: spa – 1;
+	--web-view-id: spa___1;
+	--web-scale-on-resize: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+#Intro {
+	position: absolute;
+	width: 936px;
+	height: 381px;
+	left: 497px;
+	top: 361px;
+	overflow: visible;
+}
+#Hi__my_name_is_Stuart_Small__ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 641px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(249,170,51,1);
+}
+#I_m_a_software_engineer_based_ {
+	position: absolute;
+	left: 0px;
+	top: 164px;
+	overflow: visible;
+	width: 937px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 26px;
+	color: rgba(203,217,225,1);
+}
+#Contact {
+	position: absolute;
+	width: 214px;
+	height: 77px;
+	left: 0px;
+	top: 304px;
+	overflow: visible;
+}
+.Path_4 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 232px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Contact_Me {
+	position: absolute;
+	left: 34px;
+	top: 24px;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(249,170,51,1);
+}
+#AboutMe {
+	position: absolute;
+	width: 895px;
+	height: 899px;
+	left: 482px;
+	top: 1266.153px;
+	overflow: visible;
+}
+#Hello__I_m_Stuart__but_I_go_by {
+	position: absolute;
+	left: 0px;
+	top: 80px;
+	overflow: visible;
+	width: 896px;
+	white-space: nowrap;
+	line-height: 33px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 21px;
+	color: rgba(203,217,225,1);
+}
+#AboutMe_title {
+	position: absolute;
+	width: 797px;
+	height: 44px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ii__About_Me {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 253px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(249,170,51,1);
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 552px;
+	height: 1px;
+	left: 245px;
+	top: 22px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Projects {
+	position: absolute;
+	width: 1077.485px;
+	height: 1418px;
+	left: 417px;
+	top: 2274.599px;
+	overflow: visible;
+}
+#projects_title {
+	position: absolute;
+	width: 839px;
+	height: 44px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#iii__Projects {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 274px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(249,170,51,1);
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 552px;
+	height: 1px;
+	left: 287px;
+	top: 22px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#tiles {
+	position: absolute;
+	width: 1077.485px;
+	height: 1337px;
+	left: 0px;
+	top: 81px;
+	overflow: visible;
+}
+#RSA_tile {
+	position: absolute;
+	width: 525.485px;
+	height: 255px;
+	left: 552px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 525px;
+	height: 255px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#github_editted {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 471.5px;
+	top: 13.513px;
+	overflow: visible;
+}
+#C__OpenSSL {
+	opacity: 0.61;
+	position: absolute;
+	left: 214.5px;
+	top: 229px;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(203,217,225,1);
+}
+#RSA_Encryption___Digital_Signa {
+	position: absolute;
+	left: 10px;
+	top: 14px;
+	overflow: visible;
+	width: 442px;
+	white-space: nowrap;
+	line-height: 34px;
+	margin-top: -6.5px;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(249,170,51,1);
+}
+#Program_which_demonstrates_eac {
+	position: absolute;
+	left: 10.485px;
+	top: 51.676px;
+	overflow: visible;
+	width: 516px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(203,217,225,1);
+}
+#SortingVis_tile {
+	position: absolute;
+	width: 525px;
+	height: 255px;
+	left: 552px;
+	top: 270px;
+	overflow: visible;
+}
+.Path_2_ {
+	overflow: visible;
+	position: absolute;
+	width: 525px;
+	height: 255px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#github_editted_ {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 472.5px;
+	top: 12.513px;
+	overflow: visible;
+}
+#Python__NumPy__FFmpeg__ {
+	opacity: 0.61;
+	position: absolute;
+	left: 151.482px;
+	top: 228px;
+	overflow: visible;
+	width: 222px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(203,217,225,1);
+}
+#Sorting_Visualizer {
+	position: absolute;
+	left: 17px;
+	top: 13px;
+	overflow: visible;
+	width: 228px;
+	white-space: nowrap;
+	line-height: 34px;
+	margin-top: -6.5px;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(249,170,51,1);
+}
+#Application_which_creates_a_vi {
+	position: absolute;
+	left: 17.485px;
+	top: 45.083px;
+	overflow: visible;
+	width: 477px;
+	white-space: nowrap;
+	line-height: 14px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(203,217,225,1);
+}
+#DiceRoller_tile {
+	position: absolute;
+	width: 525px;
+	height: 255px;
+	left: 0px;
+	top: 1082px;
+	overflow: visible;
+}
+.Path_2_bd {
+	overflow: visible;
+	position: absolute;
+	width: 525px;
+	height: 255px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#github_editted_be {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 471.5px;
+	top: 17.513px;
+	overflow: visible;
+}
+#JavaScript__HTML5__CSS {
+	opacity: 0.61;
+	position: absolute;
+	left: 132px;
+	top: 227px;
+	overflow: visible;
+	width: 212px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(203,217,225,1);
+}
+#Dice_Roller_ {
+	position: absolute;
+	left: 16px;
+	top: 18px;
+	overflow: visible;
+	width: 152px;
+	white-space: nowrap;
+	line-height: 34px;
+	margin-top: -6.5px;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(249,170,51,1);
+}
+#A_dice_rolling_web_application {
+	position: absolute;
+	left: 15.515px;
+	top: 54.978px;
+	overflow: visible;
+	width: 422px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(203,217,225,1);
+}
+#NetworkSim_tile {
+	position: absolute;
+	width: 525px;
+	height: 255px;
+	left: 0px;
+	top: 540px;
+	overflow: visible;
+}
+.Path_2_bj {
+	overflow: visible;
+	position: absolute;
+	width: 525px;
+	height: 255px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#github_editted_bk {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 479.5px;
+	top: 18.513px;
+	overflow: visible;
+}
+#Java {
+	opacity: 0.61;
+	position: absolute;
+	left: 251.5px;
+	top: 231px;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(203,217,225,1);
+}
+#Kruskal_s_Traveling_Salesman__ {
+	position: absolute;
+	left: 25px;
+	top: 19px;
+	overflow: visible;
+	width: 349px;
+	white-space: nowrap;
+	line-height: 22px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(249,170,51,1);
+}
+#Java_implementation_of_Kruskal {
+	position: absolute;
+	left: 25.485px;
+	top: 76.357px;
+	overflow: visible;
+	width: 469px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(203,217,225,1);
+}
+#SchedulingAlgo_tile {
+	position: absolute;
+	width: 525px;
+	height: 255px;
+	left: 0px;
+	top: 270px;
+	overflow: visible;
+}
+.Path_2_bp {
+	overflow: visible;
+	position: absolute;
+	width: 525px;
+	height: 255px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#github_editted_bq {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 472.5px;
+	top: 14.513px;
+	overflow: visible;
+}
+#Java_br {
+	opacity: 0.61;
+	position: absolute;
+	left: 243.5px;
+	top: 231px;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(203,217,225,1);
+}
+#Process_Scheduler {
+	position: absolute;
+	left: 17px;
+	top: 15px;
+	overflow: visible;
+	width: 215px;
+	white-space: nowrap;
+	line-height: 34px;
+	margin-top: -6.5px;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(249,170,51,1);
+}
+#Java_application_which_simulat {
+	position: absolute;
+	left: 17.485px;
+	top: 53.435px;
+	overflow: visible;
+	width: 508px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(203,217,225,1);
+}
+#AutoPlaylist_tile {
+	position: absolute;
+	width: 525px;
+	height: 263.749px;
+	left: 0px;
+	top: 810px;
+	overflow: visible;
+}
+.Path_2_bv {
+	overflow: visible;
+	position: absolute;
+	width: 525px;
+	height: 255px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#github_editted_bw {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 475.5px;
+	top: 13.513px;
+	overflow: visible;
+}
+#Python__Spotipy__Spotify_API_ {
+	opacity: 0.61;
+	position: absolute;
+	left: 123.5px;
+	top: 233px;
+	overflow: visible;
+	width: 279px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(203,217,225,1);
+}
+#AutoPlaylist {
+	position: absolute;
+	left: 15px;
+	top: 14px;
+	overflow: visible;
+	width: 152px;
+	white-space: nowrap;
+	line-height: 34px;
+	margin-top: -6.5px;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(249,170,51,1);
+}
+#Application_which_sorts_a_user {
+	position: absolute;
+	left: 14.515px;
+	top: 51.749px;
+	overflow: visible;
+	width: 453px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(203,217,225,1);
+}
+#VideoFrame_tile {
+	position: absolute;
+	width: 525px;
+	height: 255px;
+	left: 552px;
+	top: 540px;
+	overflow: visible;
+}
+.Path_2_b {
+	overflow: visible;
+	position: absolute;
+	width: 525px;
+	height: 255px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#github_editted_b {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 471.5px;
+	top: 16.513px;
+	overflow: visible;
+}
+#github_editted_ca {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Python__cv2 {
+	opacity: 0.61;
+	position: absolute;
+	left: 209.5px;
+	top: 230px;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(203,217,225,1);
+}
+#MP4_Frame_Breakdown_Script {
+	position: absolute;
+	left: 17px;
+	top: 17px;
+	overflow: visible;
+	width: 329px;
+	white-space: nowrap;
+	line-height: 34px;
+	margin-top: -6.5px;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(249,170,51,1);
+}
+#Simple_script_used_to_break_a_ {
+	position: absolute;
+	left: 17.485px;
+	top: 54.223px;
+	overflow: visible;
+	width: 461px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(203,217,225,1);
+}
+#PacketSniff_Spoof_tile {
+	position: absolute;
+	width: 525px;
+	height: 255px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_2_ca {
+	overflow: visible;
+	position: absolute;
+	width: 525px;
+	height: 255px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#github_editted_cb {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 470.5px;
+	top: 14.513px;
+	overflow: visible;
+}
+#Python__Scapy {
+	opacity: 0.61;
+	position: absolute;
+	left: 200.486px;
+	top: 228px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(203,217,225,1);
+}
+#Packet_Sniffer___Spoofer {
+	position: absolute;
+	left: 17px;
+	top: 15px;
+	overflow: visible;
+	width: 303px;
+	white-space: nowrap;
+	line-height: 34px;
+	margin-top: -6.5px;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(249,170,51,1);
+}
+#Component_76___1 {
+	position: absolute;
+	width: 507px;
+	height: 137px;
+	left: 17.485px;
+	top: 52.172px;
+	overflow: visible;
+}
+#Script_which_monitors_packets_ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 508px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(203,217,225,1);
+}
+#OldMaid_tile {
+	position: absolute;
+	width: 525px;
+	height: 255px;
+	left: 552px;
+	top: 810px;
+	overflow: visible;
+}
+.Path_2_cf {
+	overflow: visible;
+	position: absolute;
+	width: 525px;
+	height: 255px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Java___JavaFX {
+	opacity: 0.61;
+	position: absolute;
+	left: 200.486px;
+	top: 230px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(203,217,225,1);
+}
+#github_editted_ch {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 474.5px;
+	top: 13.513px;
+	overflow: visible;
+}
+#Java_implementation_of_the_cla {
+	position: absolute;
+	left: 16.653px;
+	top: 51.573px;
+	overflow: visible;
+	width: 500px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(203,217,225,1);
+}
+#Old_Maid {
+	position: absolute;
+	left: 17px;
+	top: 14px;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	line-height: 34px;
+	margin-top: -6.5px;
+	text-align: center;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(249,170,51,1);
+}
+#Othello_tile {
+	position: absolute;
+	width: 525px;
+	height: 255px;
+	left: 552px;
+	top: 1082px;
+	overflow: visible;
+}
+.Path_2_cl {
+	overflow: visible;
+	position: absolute;
+	width: 525px;
+	height: 255px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#github_editted_cm {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 471.5px;
+	top: 17.513px;
+	overflow: visible;
+}
+#Java_cn {
+	opacity: 0.61;
+	position: absolute;
+	left: 238px;
+	top: 228px;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(203,217,225,1);
+}
+#Othello {
+	position: absolute;
+	left: 16px;
+	top: 22px;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	line-height: 34px;
+	margin-top: -6.5px;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(249,170,51,1);
+}
+#Java_implementation_of_the_cla_cp {
+	position: absolute;
+	left: 15.515px;
+	top: 59.098px;
+	overflow: visible;
+	width: 485px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(203,217,225,1);
+}
+#Experience {
+	position: absolute;
+	width: 1074.5px;
+	height: 592.5px;
+	left: 427.5px;
+	top: 4102.578px;
+	overflow: visible;
+}
+#experience_title {
+	position: absolute;
+	width: 906px;
+	height: 44px;
+	left: 0.5px;
+	top: 0px;
+	overflow: visible;
+}
+#iv__Experience {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 295px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(249,170,51,1);
+}
+.Path_1_ct {
+	overflow: visible;
+	position: absolute;
+	width: 552px;
+	height: 1px;
+	left: 354px;
+	top: 22px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#job_side_bar {
+	position: absolute;
+	width: 283.5px;
+	height: 486px;
+	left: 0px;
+	top: 106.5px;
+	overflow: visible;
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 486px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#current_job_selection {
+	position: absolute;
+	width: 283.5px;
+	height: 67px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#mortex_title {
+	position: absolute;
+	width: 252px;
+	height: 25px;
+	left: 31.5px;
+	top: 14.5px;
+	overflow: visible;
+}
+#Mortex_Products__Inc_ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 253px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(249,170,51,1);
+}
+#selection {
+	position: absolute;
+	width: 0px;
+	height: 67px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#choice_line_indicator {
+	position: absolute;
+	width: 0px;
+	height: 67px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Line_7 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 67px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#job_description {
+	position: absolute;
+	width: 731px;
+	height: 325px;
+	left: 343.5px;
+	top: 121px;
+	overflow: visible;
+}
+#Full_Stack_Development_Intern {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 436px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(203,217,225,1);
+}
+#June_2019___Present {
+	opacity: 0.5;
+	position: absolute;
+	left: 0px;
+	top: 32px;
+	overflow: visible;
+	width: 206px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(203,217,225,1);
+}
+#Designed__and_Normalized_inven {
+	position: absolute;
+	left: 0px;
+	top: 82px;
+	overflow: visible;
+	width: 732px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(203,217,225,1);
+}
+#ContactMe {
+	position: absolute;
+	width: 1054px;
+	height: 405px;
+	left: 433px;
+	top: 5210px;
+	overflow: visible;
+}
+#contact_title {
+	position: absolute;
+	width: 891px;
+	height: 44px;
+	left: 22px;
+	top: 0px;
+	overflow: visible;
+}
+#v__Contact_Me {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 274px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(249,170,51,1);
+}
+.Path_1_c {
+	overflow: visible;
+	position: absolute;
+	width: 552px;
+	height: 1px;
+	left: 339px;
+	top: 22px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#EmailButton {
+	position: absolute;
+	width: 272px;
+	height: 81px;
+	left: 391px;
+	top: 324px;
+	overflow: visible;
+}
+.Rectangle_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 290px;
+	height: 99px;
+	left: 0px;
+	top: 0px;
+}
+#Email_Me {
+	position: absolute;
+	left: 62px;
+	top: 21px;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 31px;
+	color: rgba(249,170,51,1);
+}
+#I_m_currently_looking_for_new_ {
+	position: absolute;
+	left: 0px;
+	top: 82px;
+	overflow: visible;
+	width: 1055px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 27px;
+	color: rgba(203,217,225,1);
+}
+#header {
+	/* position: absolute; */
+	position: sticky;
+	width: 1968px;
+	height: 97px;
+	/* left: -38px; */
+	top: 0px;
+	overflow: visible;
+}
+#header_body {
+	position: absolute;
+	width: 1968px;
+	height: 97px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.header_fill {
+	position: absolute;
+	overflow: visible;
+	width: 1968px;
+	height: 97px;
+	left: 0px;
+	top: 0px;
+}
+#header_content {
+	position: absolute;
+	width: 1653.841px;
+	height: 86px;
+	left: 187px;
+	top: 5px;
+	overflow: visible;
+}
+#header_logo {
+	position: absolute;
+	width: 107px;
+	height: 86px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Logo {
+	position: absolute;
+	width: 107px;
+	height: 86px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#header_right {
+	position: absolute;
+	width: 877.841px;
+	height: 43.253px;
+	left: 776px;
+	top: 24.423px;
+	overflow: visible;
+}
+#header_nav {
+	position: absolute;
+	width: 712px;
+	height: 23px;
+	left: 0px;
+	top: 10.577px;
+	overflow: visible;
+}
+#about {
+	position: absolute;
+	width: 97px;
+	height: 23px;
+	left: 111px;
+	top: 0px;
+	overflow: visible;
+}
+#ii__About {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(249,170,51,1);
+}
+#experience {
+	position: absolute;
+	width: 151px;
+	height: 23px;
+	left: 418px;
+	top: 0px;
+	overflow: visible;
+}
+#iv__Experience_dp {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 152px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(249,170,51,1);
+}
+#home {
+	position: absolute;
+	width: 76px;
+	height: 23px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#i__Home {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(249,170,51,1);
+}
+#contact {
+	position: absolute;
+	width: 108px;
+	height: 23px;
+	left: 604px;
+	top: 0px;
+	overflow: visible;
+}
+#v__Contact {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(249,170,51,1);
+}
+#projects {
+	position: absolute;
+	width: 140px;
+	height: 23px;
+	left: 243px;
+	top: 0px;
+	overflow: visible;
+}
+#iii__Projects_dv {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 141px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(249,170,51,1);
+}
+#resume_button {
+	position: absolute;
+	width: 130.2px;
+	height: 43.253px;
+	left: 747.641px;
+	top: 0px;
+	overflow: visible;
+}
+#resume_btn_outline {
+	position: absolute;
+	width: 130.2px;
+	height: 43.253px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.resume_path {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 148.2px;
+	height: 61.253px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#resume_text {
+	position: absolute;
+	width: 64px;
+	height: 23px;
+	left: 33.359px;
+	top: 9.847px;
+	overflow: visible;
+}
+#Resume {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(249,170,51,1);
+}
+#footer {
+	position: absolute;
+	width: 1920px;
+	height: 97px;
+	left: 0px;
+	top: 5903px;
+	overflow: visible;
+}
+#footer_body {
+	position: absolute;
+	width: 1920px;
+	height: 97px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.footer_fill {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 97px;
+	left: 0px;
+	top: 0px;
+}
+#footer_text {
+	position: absolute;
+	width: 302px;
+	height: 23px;
+	left: 809px;
+	top: 61px;
+	overflow: visible;
+}
+#_Stuart__Jackson__Small_2020 {
+	opacity: 0.37;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 303px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(249,170,51,1);
+}
+#about_me_anchor {
+	position: absolute;
+	width: 162px;
+	height: 23px;
+	left: 884px;
+	top: 1080px;
+	overflow: visible;
+}
+#Anchor_Location {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(52,73,85,1);
+}
+#home_anchor {
+	position: absolute;
+	width: 162px;
+	height: 23px;
+	left: 884px;
+	top: 0px;
+	overflow: visible;
+}
+#Anchor_Location_d {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(52,73,85,1);
+}
+#projects_anchor {
+	position: absolute;
+	width: 162px;
+	height: 23px;
+	left: 884px;
+	top: 2137.305px;
+	overflow: visible;
+}
+#Anchor_Location_eb {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(52,73,85,1);
+}
+#experience_anchor {
+	position: absolute;
+	width: 162px;
+	height: 23px;
+	left: 884px;
+	top: 3837.227px;
+	overflow: visible;
+}
+#Anchor_Location_ed {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(52,73,85,1);
+}
+#contact_anchor {
+	position: absolute;
+	width: 162px;
+	height: 23px;
+	left: 884px;
+	top: 4922px;
+	overflow: visible;
+}
+#Anchor_Location_ef {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(52,73,85,1);
+}
+#EmailBar {
+	opacity: 0.55;
+	transform: matrix(1,0,0,1,1588.5,837.5) rotate(90deg);
+	transform-origin: center;
+	position: absolute;
+	width: 460px;
+	height: 25px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 164px;
+	transform: translate(25px, 0px) matrix(1,0,0,1,378,-69.5) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#stuartsmall96_gmail_com {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 277px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Code Pro;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(203,217,225,1);
+}
+#SocialBar {
+	opacity: 0.55;
+	transform: matrix(1,0,0,1,-90,866) rotate(-90deg);
+	transform-origin: center;
+	position: absolute;
+	width: 374px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 164px;
+	transform: translate(0px, 374px) matrix(1,0,0,1,82,-56) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#github_editted_el {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 11px;
+	top: 160px;
+	overflow: visible;
+}
+#linkedin_editted {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 11px;
+	top: 112px;
+	overflow: visible;
+}
+#ig_editted {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 3px;
+	top: 54px;
+	overflow: visible;
+}
+#twitter_editted {
+	position: absolute;
+	width: 54px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#logo2 {
+	opacity: 0.15;
+	position: absolute;
+	width: 931px;
+	height: 752px;
+	left: 515px;
+	top: 164px;
+	overflow: visible;
+}
+#logo2_eq {
+	position: absolute;
+	width: 931px;
+	height: 752px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#external_link {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 845px;
+	top: 3456px;
+	overflow: visible;
+}
